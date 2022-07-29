@@ -34,7 +34,6 @@ const NavbarMain = () => {
         if (carts.length !== 0) {
             Swal.fire({
                 position: 'top-end',
-                // icon: 'errro',
                 title: `masih ada order di keranjang silakan di proses atau dibatalkan!`,
                 showConfirmButton: false,
                 timer: 2500
@@ -61,7 +60,7 @@ const NavbarMain = () => {
                         <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
                             <li className="nav-item active">
                                 <Link href={`/`}>
-                                    <a className="nav-link">Home</a>
+                                    <a className="nav-link"><b>Toko Kita</b></a>
                                 </Link>
                             </li>
                             <li className="nav-item active">
