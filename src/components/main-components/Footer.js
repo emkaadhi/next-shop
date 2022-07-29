@@ -92,7 +92,7 @@ const Footer = () => {
                                 <div className="focus-input1 trans-04" />
                             </div>
                             <div className="p-t-18">
-                                <button className="flex-c-m stext-101 cl0 size-103 bg1 bor1 hov-btn2 p-lr-15 trans-04">
+                                <button className="btn btn-primary mt-3 btn-sm btn-block">
                                     Subscribe
                                 </button>
                             </div>

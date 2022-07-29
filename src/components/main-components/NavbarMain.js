@@ -60,7 +60,7 @@ const NavbarMain = () => {
                         <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
                             <li className="nav-item active">
                                 <Link href={`/`}>
-                                    <a className="nav-link"><b>Toko Kita</b></a>
+                                    <a className="nav-link">Home</a>
                                 </Link>
                             </li>
                             <li className="nav-item active">
