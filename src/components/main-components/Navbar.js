@@ -24,7 +24,6 @@ const Navbar = () => {
   }, [dispatch]);
   return (
     <>
-      <NavbarTop />
       <NavbarMain />
     </>
   )

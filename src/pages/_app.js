@@ -1,7 +1,4 @@
-// import '../../styles/globals.css'
-// import '../../styles/main.css'
 import '../../styles/custom.css'
-import '../../styles/util.css'
 import { Provider } from 'react-redux'
 import { store } from '../store'
 import Navbar from '../components/main-components/Navbar'
